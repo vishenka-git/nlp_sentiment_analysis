@@ -1,2 +1,2 @@
 # nlp_sentiment_analysis
-russian movie reviews
+movie reviews in Russian
